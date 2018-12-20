@@ -104,11 +104,11 @@ venv.bak/
 .mypy_cache/
 
 # corpus text
-# *.txt
+*.txt
 
 # words segmentation result
 # *.json
-# *.csv
+*.csv
 
 # models trained
 *.bin
@@ -123,8 +123,5 @@ venv.bak/
 # MAC OS file
 .DS_Store
 
-# datasets repository
-# datasets
-
-# GloVe source code
-# GloVe-1.2/*
+# ignore dataset
+Tobacco3482-OCR/*
